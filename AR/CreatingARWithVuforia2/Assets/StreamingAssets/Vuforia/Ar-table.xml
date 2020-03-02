@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="toboggan" size="0.020000 0.018796" />
+    <ImageTarget name="pingpong" size="0.020000 0.020194" />
+    <ImageTarget name="picnic" size="0.020000 0.020583" />
+    <ImageTarget name="lampe" size="0.020000 0.021485" />
+    <ImageTarget name="banc" size="0.020000 0.020000" />
+    <ImageTarget name="arbre" size="0.020000 0.019505" />
+  </Tracking>
+</QCARConfig>
